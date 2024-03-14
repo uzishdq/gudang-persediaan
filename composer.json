@@ -1,0 +1,17 @@
+{
+	"name": "example/gudang_persediaan",
+	"autoload": {
+		"psr-4": {
+			"example\\GudangPersediaan\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "example",
+			"email": "example@mail.com"
+		}
+	],
+	"require": {
+		"tecnickcom/tcpdf": "^6.6"
+	}
+}
